@@ -100,7 +100,7 @@ The dashboard includes:
 
 ## 📸 Preview
 
-![Dashboard Preview 1](https://your-image-link-here.com)
+![Dashboard Preview 1](dashboard 1.png)
 ![Dashboard Preview 2](https://your-image-link-here.com)
 
 ---
