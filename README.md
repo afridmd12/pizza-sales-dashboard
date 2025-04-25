@@ -100,9 +100,11 @@ The dashboard includes:
 
 ## 📸 Preview
 
-![Dashboard Preview 1](images/dashboard-1.png)
+## 📸 Dashboard Previews
 
-![Dashboard Preview 2](https://your-image-link-here.com)
+![Dashboard Preview 1](https://raw.githubusercontent.com/afridmd12/pizza-sales-dashboard/main/dashboard_1.png)
+
+![Dashboard Preview 2](https://raw.githubusercontent.com/afridmd12/pizza-sales-dashboard/main/dashboard_2.png)
 
 ---
 
